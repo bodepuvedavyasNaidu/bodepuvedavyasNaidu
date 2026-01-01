@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bodepuvedavyasnaidu&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/bodepuvedavyasnaidu?label=Followers&style=flat" />
+  <img src="https://img.shields.io/github/stars/bodepuvedavyasnaidu?label=Stars&style=flat" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Vedavyas Naidu Bodepu</h1>
 <h3 align="center">Electronics & Communication Engineering Student</h3>
 
@@ -9,9 +15,9 @@
 
 ## 👨‍💻 About Me
 - 🎓 B.Tech student in **Electronics & Communication Engineering**
-- 🔧 Strong interest in **Embedded Systems, IoT, Robotics, and UAVs**
-- 🤖 Passionate about building **real-world engineering solutions**
-- 🌱 Currently learning **autonomous systems & advanced embedded programming**
+- 🔧 **Experienced in Embedded Systems, IoT, Robotics, and UAV development**
+- 🧠 Skilled in designing, integrating, and debugging **hardware–software systems**
+- 🤖 Focused on **autonomous systems, flight control, and advanced embedded programming**
 
 ---
 
@@ -20,23 +26,32 @@
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,python,c,matlab,linux,git" />
 </p>
 
+### 🧰 Drone & Embedded Tools
+- 🗺️ **Mission Planner** – Autonomous mission planning & GCS  
+- 🧠 **ArduPilot (ArduCopter)** – Flight control firmware  
+- ⚙️ **Betaflight** – ESC & sensor calibration  
+- ⚡ **BLHeli** – Motor tuning  
+- 📡 **ExpressLRS Configurator** – TX/RX binding  
+- 🧩 **STM32 Cube Programmer** – Firmware flashing  
+- 🔧 **Arduino IDE** – Embedded development  
+
 ---
 
-## 📌 Technical Interests
-- Embedded Systems Design  
-- IoT-based Smart Applications  
-- Robotics & Automation  
-- Autonomous Drones (UAVs)  
-- Sensors & Communication Systems  
+## 📌 Technical Expertise
+- Embedded System Architecture & Firmware Development  
+- IoT System Design & Sensor Integration  
+- Robotics & Automation Systems  
+- Autonomous UAV Design & Control  
+- Communication Protocols & Telemetry  
 
 ---
 
 ## 📂 Featured Projects
-🔹 Arduino & ESP8266 based IoT projects  
-🔹 Robotics projects using sensors and automation  
-🔹 Drone projects focused on autonomous navigation  
+🔹 **Sub-250 g Autonomous Navigation Aerial Vehicle (ANAV)**  
+🔹 Arduino & ESP-based IoT systems  
+🔹 Robotics projects with sensing and automation  
 
-> *(More projects coming soon — actively learning & building)*
+> *(Continuously building and refining advanced engineering systems)*
 
 ---
 
@@ -54,5 +69,5 @@
 ---
 
 <p align="center">
-✨ “Learning electronics by building systems that matter.” ✨
+✨ “Engineering autonomous systems through practical design and innovation.” ✨
 </p>
