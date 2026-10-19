@@ -36,7 +36,7 @@ Electronics professional specializing in **Process Quality Control (PQC)** in el
 ### 📫 Contact
 
 - 📧 **Email:** bodepuvedyas@gmail.com
-- 💼 **LinkedIn:** https://linkedin.com/in/yourprofile
+- 💼 **LinkedIn:** [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/b-vedavyas-naidu-5a339a3b7/)
 - 🐙 **GitHub:** https://github.com/bodepuvedavyasnaidu
 
 ---
